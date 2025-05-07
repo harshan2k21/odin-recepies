@@ -1,0 +1,3 @@
+[submodule "odin-recepies"]
+	path = odin-recepies
+	url = 200~https://github.com/harshan2k21/odin-recepies.git~
